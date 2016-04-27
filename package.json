@@ -1,0 +1,14 @@
+{
+    "name": "npm-script-flags",
+    "version": "1.0.0",
+    "description": "Add custom arguments to your npm scripts",
+    "dependencies": {},
+    "files": [
+        "dist", 
+        "lib",
+        "index.js",
+        "package.json",
+        "webpack.config.js"
+    ],
+    "main": "dist/npm-script-flags.js"
+}
