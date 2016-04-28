@@ -1,6 +1,6 @@
 {
     "name": "npm-script-flags",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Add custom arguments to your npm scripts",
     "dependencies": {},
     "files": [
