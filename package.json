@@ -10,6 +10,12 @@
         "type": "git",
         "url": "git+ssh://git@github.com:rendfall/npm-script-flags.git"
     },
+    "keywords": [
+        "npm",
+        "flags",
+        "script",
+        "run"
+    ],
     "description": "Add custom arguments to your npm scripts",
     "dependencies": {},
     "files": [
