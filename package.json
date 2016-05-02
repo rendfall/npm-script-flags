@@ -1,6 +1,15 @@
 {
     "name": "npm-script-flags",
-    "version": "1.0.1",
+    "version": "1.0.2",
+    "author": {
+        "name": "Rendfall",
+        "email": "rendfall@gmail.com",
+        "url": "rendfall.pl"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:rendfall/npm-script-flags.git"
+    },
     "description": "Add custom arguments to your npm scripts",
     "dependencies": {},
     "files": [
@@ -10,5 +19,6 @@
         "package.json",
         "webpack.config.js"
     ],
-    "main": "dist/npm-script-flags.js"
+    "main": "dist/npm-script-flags.js",
+    "license": "MIT"
 }
